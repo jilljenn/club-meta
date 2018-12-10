@@ -40,7 +40,7 @@ Probablement pas méta mais je l'ajoute *for the sake of completeness* :
 
 ## Games
 
-[IMSCARED: A Pixelated Nightmare](http://imscared.wikia.com/wiki/IMSCARED:_A_Pixelated_Nightmare) d'Ivan Zanotti.
+[IMSCARED: A Pixelated Nightmare](http://imscared.wikia.com/wiki/IMSCARED:_A_Pixelated_Nightmare) (2012, 2016) d'Ivan Zanotti.
 
 [Undertale](https://en.wikipedia.org/wiki/Undertale) par [Toby Fox](https://en.wikipedia.org/wiki/Toby_Fox), je le mets pour faire plaisir à Garance qui a hébergé le [Club-Méta 2017](http://localhost:4000/2017/12/12/club-meta-2017/).
 
@@ -52,4 +52,4 @@ Ce serait bien de check ce que l'auteur de [Stanley Parable](https://en.wikipedi
 
 ## Note à toi-même
 
-Remplacer tous les liens Wikipédia de ce post par des liens [club-meta.fr](http://club-meta.fr).
+Remplacer tous les liens Wikipédia de [ce post](https://github.com/jilljenn/club-meta/blob/gh-pages/_posts/2018-12-10-preparations-club-meta-2018.md) par des liens [club-meta.fr](http://club-meta.fr).
