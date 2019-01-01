@@ -15,6 +15,7 @@ Je verrais bien ici des articles portant sur les sujets suivants. À vous de jou
 * *Le Congrès*
 * *Stranger Than Fiction*
 * *Synecdoque, New York* (cf. séance [décembre 2015](/2015/12/08/club-meta/))
+* *Galaxy Quest*
 
 ## Mangas
 
