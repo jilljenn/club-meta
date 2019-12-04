@@ -32,7 +32,7 @@ DIE by David.
 
 ## Games
 
-Hope someone can present Baba is You. Félix?
+Introduction to Baba is You by Félix.
 
 ## Méta
 
